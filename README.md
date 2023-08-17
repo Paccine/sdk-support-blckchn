@@ -1,2 +1,0 @@
-# sdk-support-blckchn
- testers
