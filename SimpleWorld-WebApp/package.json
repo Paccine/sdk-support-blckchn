@@ -1,0 +1,27 @@
+{
+  "name": "simpleworld-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "author": "P4 Development Studio",
+  "license": "ISC",
+  "dependencies": {
+    "@moralisweb3/next": "^2.22.4",
+    "moralis": "^2.22.4",
+    "next": "^12.3.4",
+    "next-auth": "^4.22.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.18",
+    "typescript": "5.1.6"
+  }
+}
